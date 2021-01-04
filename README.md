@@ -23,7 +23,7 @@
 
 ### 获取 Cookie
 
-电脑打网页开 https://bean.m.jd.com ，打开调试模式（F12），刷新页面，然后 复制 Cookie
+电脑打网页开 https://bean.m.jd.com ，打开调试模式（F12），刷新页面，然后 复制 Cookie。。
 
 ![](https://gitee.com/xiaoxiunique/picgo-image/raw/master/atips/20201231175239.png)
 
